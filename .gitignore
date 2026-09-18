@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# generated output, rebuilt by the workflow
+docs/feed.xml
+docs/*.epub
+
+# personal / identifying files - never commit
+*GEETHA*
+*Geetha*
+*KRISHNA*
+*Krishna*
+*MANIKANTESWAR*
+*Manikanteswar*
